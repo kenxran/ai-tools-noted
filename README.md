@@ -4,7 +4,7 @@
 ### 影像為主
 
 標題  |  描述  |   備註   
-=====+=======+======
+----|----|----
 FaceFusion  |   換臉為主的 AI 工具   |  Python    
 
 1. [FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)
