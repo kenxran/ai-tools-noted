@@ -5,10 +5,11 @@
 
 標題  |  描述  |   開發語言  |  其他備註   
 ----|----|----|----
-[FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  無
+[FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  OpenSource
+[NoteGPT](https://notegpt.io/youtube-video-summarizer)  |  整理 Youtube 影片的字幕進行分析與匯出  |  x   |  x   
 
 
-1. 
+
    
 以下是市面上提供免費使用的十個AI工具，它們涵蓋了不同的用途和功能：
 
