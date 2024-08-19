@@ -1,16 +1,26 @@
 ## 一個 AI 工具的筆記首頁
 
 
-### 影像為主
+### 影像 (Image)
 
 標題  |  描述  |   開發語言  |  其他備註   
 ----|----|----|----
 [FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  OpenSource
+
+
+### 影片 (Video)
+
+標題  |  描述  |   開發語言  |  其他備註   
+----|----|----|----
 [NoteGPT](https://notegpt.io/youtube-video-summarizer)  |  整理 Youtube 影片的字幕進行分析與匯出  |  x   |  x   
 
 
 
-   
+
+----
+
+### 以下為廢棄、待整理倉庫：
+
 以下是市面上提供免費使用的十個AI工具，它們涵蓋了不同的用途和功能：
 
 1. **Google Colab**：一個基於雲端的Jupyter Notebook環境，適合機器學習和深度學習的實驗。
