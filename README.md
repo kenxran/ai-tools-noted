@@ -3,9 +3,10 @@
 
 ### 🦁 影像 (Image)
 
-標題  |  描述  |   開發語言  |  其他備註   
+標題  |  描述  |   開發語言  |  其他備註   | 使用方式
 ----|----|----|----
-[FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  OpenSource
+[FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  OpenSource | 
+[Copilot](https://copilot.microsoft.com/) | 微軟的 AI 工具 | Web | Free | [使用方式](./image/copilot-usage.md) 
 
 
 ### 📹 影片 (Video)
