@@ -1,12 +1,19 @@
 ## 一個 AI 工具的筆記首頁
 
+### 綜合 (Summary)
+
+標題  |  描述  |   開發語言  |  其他備註   | 使用方式
+----|----|----|----|----
+[Copilot](https://copilot.microsoft.com/) | 微軟的 AI 工具 | Web | Free | [使用方式](/image/copilot.md) 
+[ChatGPT](https://openai.com/chatgpt/) | 大名鼎鼎的 OpenAI 公司開發 | Web | Free (有限度使用) | .
+[Google Gemini](https://gemini.google.com/) | Google 開發的互動式 AI | Web | Free | .
+
 
 ### 🦁 影像 (Image)
 
 標題  |  描述  |   開發語言  |  其他備註   | 使用方式
 ----|----|----|----|----
 [FaceFusion](https://github.com/facefusion/facefusion?tab=readme-ov-file)  |   換臉為主的 AI 工具   |  Python  |  OpenSource | 
-[Copilot](https://copilot.microsoft.com/) | 微軟的 AI 工具 | Web | Free | [使用方式](/image/copilot.md) 
 
 
 ### 📹 影片 (Video)
